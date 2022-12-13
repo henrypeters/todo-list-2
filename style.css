@@ -1,7 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost:wght@100;200;300;400;500;600;700;800&family=Nunito:wght@200&family=Open+Sans&family=Poppins:wght@100;200;300;400;500;600;700;800&family=Quicksand:wght@300;400;500;600&display=swap');
+
 *{
     margin: 0;
     padding: 0;
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    /* font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
+    font-family: 'Nunito', sans-serif;
 }
 
 
@@ -54,7 +57,7 @@ body{
 }
 
 .header ::-webkit-input-placeholder {
-    color: rgba(255, 255, 255, 1);
+    color: rgba(255, 255, 255, 0.432);
     font-weight: 200;
     letter-spacing: 1px;
     opacity: 0.7;
